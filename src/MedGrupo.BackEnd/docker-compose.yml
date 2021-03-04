@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  medgrupo.backend.api:
+    image: ${DOCKER_REGISTRY-}medgrupobackendapi
+    build:
+      context: .
+      dockerfile: MedGrupo.BackEnd.Api/Dockerfile
+

@@ -1,0 +1,30 @@
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Business.deps.json
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Business.dll
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\ref\MedGrupo.BackEnd.Business.dll
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Business.pdb
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.csprojAssemblyReference.cache
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.AssemblyInfoInputs.cache
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.AssemblyInfo.cs
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.dll
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\ref\MedGrupo.BackEnd.Business.dll
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.pdb
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Core.dll
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Core.pdb
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.csproj.CopyComplete
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Business.deps.json
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Business.dll
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\ref\MedGrupo.BackEnd.Business.dll
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Business.pdb
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Core.dll
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\bin\Debug\net5.0\MedGrupo.BackEnd.Core.pdb
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.csprojAssemblyReference.cache
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.AssemblyInfoInputs.cache
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.AssemblyInfo.cs
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.csproj.CoreCompileInputs.cache
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.csproj.CopyComplete
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.dll
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\ref\MedGrupo.BackEnd.Business.dll
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Business\obj\Debug\net5.0\MedGrupo.BackEnd.Business.pdb

@@ -1,0 +1,24 @@
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.deps.json
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.dll
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.pdb
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.csprojAssemblyReference.cache
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.AssemblyInfoInputs.cache
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.AssemblyInfo.cs
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.dll
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.pdb
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.runtimeconfig.json
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.runtimeconfig.dev.json
+C:\Users\Carlos Bezerra\source\repos\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.genruntimeconfig.cache
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.deps.json
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.runtimeconfig.json
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.runtimeconfig.dev.json
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.dll
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\bin\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.pdb
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.csprojAssemblyReference.cache
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.AssemblyInfoInputs.cache
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.AssemblyInfo.cs
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.csproj.CoreCompileInputs.cache
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.dll
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.pdb
+C:\DEV\MedGrupoDesafio\src\MedGrupo.BackEnd\MedGrupo.BackEnd.Core\obj\Debug\netcoreapp3.1\MedGrupo.BackEnd.Core.genruntimeconfig.cache
